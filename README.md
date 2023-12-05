@@ -442,5 +442,5 @@ SELECT 'Ослы' AS тип_животного, имя, команда, дата
 
 </details>
 
-13. , 14. , 15. - [-= Перейти к коду Java =-](https://github.com/)
+13. , 14. , 15. - [-= Перейти к коду Java =-](https://github.com/SEGARSS/ItogDZJava/tree/master/Java)
 
